@@ -62,7 +62,7 @@ elsif
 
 end
 end
-
+end
 
 #if word[index] == index[1]
 #  word
