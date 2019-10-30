@@ -62,7 +62,7 @@ def add_s(array)
   return  word
 
 end
-array
+array[words]
 end
 
 
