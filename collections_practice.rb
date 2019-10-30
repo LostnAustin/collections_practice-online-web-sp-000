@@ -58,7 +58,7 @@ def add_s(array)
   puts "#{word}"  << "s"
 elsif
    word[index] == index[1]
-  return  "#{word}"
+puts  "#{word}"
 
 end
 end
