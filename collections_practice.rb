@@ -51,8 +51,8 @@ end
 
 def add_s(array)
   array.each_with_index.collect do | word, index |
-
-    unless [word][index] == index[1]
+    word.split(" ")
+    unless word[index] == index[1]
       word << "s"
   end
 end
