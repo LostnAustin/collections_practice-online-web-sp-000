@@ -55,5 +55,6 @@ def add_s(array)
     unless word[index] == index[0] || word[index] == index[2] || word[index] == index[3]
       word << "s"
   end
+  
 end
 end
