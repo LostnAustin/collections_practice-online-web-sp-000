@@ -55,10 +55,10 @@ def add_s(array)
   if   word[index] == index[0] ||
    word[index] == index[2] ||
     word[index] == index[3]
-  return  word << "s"
+  puts "#{word}"  << "s"
 elsif
    word[index] == index[1]
-  return  word
+  return  "#{word}"
 
 end
 end
