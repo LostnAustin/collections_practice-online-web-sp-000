@@ -59,7 +59,7 @@ def add_s(array)
   elsif  word[index] == index[3]
     word << "s"
   elsif word[index] == index[1]
-    word
+    word << ""
 
   end
 
