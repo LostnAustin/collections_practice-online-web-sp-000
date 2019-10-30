@@ -51,10 +51,10 @@ end
 
 def add_s(array)
   array.each_with_index.collect do | word, index |
-    unless word[index] == index[1]
+    unless word[index] == !index[1]
       word << "s"
 
-    else word[index] == !index[1]
+    else word[index] == index[1]
       word
     end
     end
