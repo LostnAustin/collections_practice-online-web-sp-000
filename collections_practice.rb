@@ -59,3 +59,4 @@ if word[index] == index[1]
   return word
 end
 end
+end
