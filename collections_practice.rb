@@ -61,8 +61,6 @@ def add_s(array)
    word[index] == index[1]
   return  word
 
-  end
-
 end
 end
 
