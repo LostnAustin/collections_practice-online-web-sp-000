@@ -58,7 +58,7 @@ def add_s(array)
     word << "s"
   elsif  word[index] == index[3]
     word << "s"
-
+else word
 
   end
 end
