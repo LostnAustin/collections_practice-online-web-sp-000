@@ -61,16 +61,14 @@ end
 
 
 
-    unless word[index] == !index[1]
-      word << "s"
+#    unless word[index] == !index[1]
+#      word << "s"
 
-    else word[index] == index[1]
-      word
-    end
-    end
-    end
-
-
+#    else word[index] == index[1]
+#      word
+#    end
+#    end
+#    end
 
 
 
