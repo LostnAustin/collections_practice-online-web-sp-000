@@ -60,10 +60,10 @@ end
 end
 
 
-if word[index] == index[1]
-  word
-elsif word[index] == !index[1]
-  word << "s"
-end
-end
-end
+#if word[index] == index[1]
+#  word
+#elsif word[index] == !index[1]
+#  word << "s"
+#end
+#end
+#end
